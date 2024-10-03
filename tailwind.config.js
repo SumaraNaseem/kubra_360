@@ -25,7 +25,8 @@ module.exports = {
         'tab-bg-color':'#2A2E34',
         'active-tab-color':'#FF5CAD',
         'active-tab-text-color':'#B9B9B9',
-        'footer-circle':'#191B20'
+        'footer-circle':'#191B20',
+        'dark-fill':'black',
        
        
       },

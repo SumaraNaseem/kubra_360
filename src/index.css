@@ -272,7 +272,7 @@ select option :hover{
 @media (max-width:400px) {
   .toggle-class{
     /* left-[40%] sm:left-[43%] md:left-[45%] */
-    left: 38.5%;
+    left: 42.5%;
   }
 }
 @media (max-width:350px) {

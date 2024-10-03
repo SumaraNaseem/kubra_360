@@ -29,13 +29,13 @@ function FooterBar() {
       id: 1,
       label: "Sports",
       icon: <FaBasketballBall size={20} />,
-      url: "/",
+      url: "/e-sport",
     },
     {
       id: 2,
       label: "Casino",
       icon: <MdOutlineCasino size={20} />,
-      url: "/promotion",
+      url: "/live_casino",
     },
     
   ];
@@ -68,7 +68,7 @@ function FooterBar() {
           fill-rule="evenodd"
           clip-rule="evenodd"
           d="M187.5 40C197.898 40 207.281 35.2348 213.929 27.5883C224.8 15.0848 237.431 0 254 0H360C368.284 0 375 6.71573 375 15V76C375 76.5523 374.552 77 374 77H0.999995C0.44771 77 0 76.5523 0 76V15C0 6.71573 6.71573 0 15 0H121C137.569 0 150.2 15.0848 161.071 27.5883C167.719 35.2348 177.102 40 187.5 40Z"
-          fill="black"
+          fill="dark-fill"
         ></path>
       </svg>
 
