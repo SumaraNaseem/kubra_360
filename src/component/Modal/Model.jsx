@@ -43,7 +43,7 @@ function Modal({ isModalOpen, closeModal }) {
           className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center"
           onClick={handleBackgroundClick}
         >
-          <div className="bg-custon-right-side-bg px-6 mx-3 lg:mx-0  lg:mt-0 py-3 rounded-xl h-[400px]  overflow-scroll  shadow-lg w-[400px] lg:w-[660px]">
+          <div className="bg-custon-right-side-bg px-6 mx-3 lg:mx-0 -mt-3 lg:mt-0 py-3 rounded-xl h-[400px]  overflow-scroll  shadow-lg w-[400px] lg:w-[660px]">
             <div className='flex justify-end items-center'>
               <ImCross onClick={closeModal} className='dark:bg-black  bg-white rounded-full p-2 text-[30px] text-white' />
             </div>
