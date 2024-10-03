@@ -395,7 +395,7 @@ select option :hover{
 }
 @media (max-width:375px) {
   .menu-options{
-    left: 19%;
+    left: 17%;
   }
 }
 @media (max-width:350px) {
